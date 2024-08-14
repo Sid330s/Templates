@@ -1,35 +1,23 @@
-Test1:-
+Both the reading passage and the lecture discuss _____.
+Former argues that _____.
+But the lecture contradicts that _____.
 
-Both reading passage and lecture discuss ----
+First of all, the author contends that _____.
+In contrast, the professor argues that _____.
 
-Former argues that ----
-But lecture contradicts that ----
+Second of all, the reading asserts that  _____.
+However, the lecture refutes that _____.
 
-First of all, the author contends that ----
-In contrast, the lecturer argues that ----
-
-Second of all, the reading asserts that ----
-However, the professor rebuts that ----
-
-Finally, the reading passage cliams that ----
-On the other hand, the lecturer counters that ----
-
-Test2:-
-
-While ----,
-
-I still believe that ----
-
-for the following two resons.
-
-First of all, ----
-
-For example, ----
-
-Secondly, ----
-
-For instance, ----
+Finally, the text claims that _____.
+On the other hand, the speech counters that ______.
 
 
+While _____.
+I still believe that _____ 
+for the following two reasons.
 
+First of all, ____.
+For example, _____.
 
+Secondly, ______.
+For instance, _______.
